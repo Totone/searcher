@@ -1,0 +1,10 @@
+<section class="inputs">
+  <input [(ngModel)]="query" id="zz"/>
+  <section>
+    <button *ngFor="let website of list"
+      (click)="redirectTo(website.id)"
+    >
+      {{website.name}}
+    </button>
+  </section>
+</section>
