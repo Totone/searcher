@@ -1,0 +1,27 @@
+[
+  {
+    "name": "MDN",
+    "url": "https://developer.mozilla.org/fr/search?q={{input}}"
+  },{
+    "name": "GitHub",
+    "url": "https://github.com/search?q={{input}}"
+  },{
+    "name": "stackoverflow",
+    "url": "https://stackoverflow.com/search?q={{input}}"
+  },{
+    "name": "npmjs",
+    "url": "https://www.npmjs.com/search?q={{input}}"
+  },{
+    "name": "Google",
+    "url": "https://www.google.fr/search?q={{input}}"
+  },{
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query={{input}}"
+  },{
+    "name": "WordReference\nEn->Fr",
+    "url": "https://www.wordreference.com/enfr/{{input}}"
+  },{
+    "name": "WordReference\nFr->En",
+    "url": "https://www.wordreference.com/fren/{{input}}"
+  }
+]

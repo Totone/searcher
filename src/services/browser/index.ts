@@ -1,0 +1,1 @@
+export { openNewPage } from "./openNewPage";

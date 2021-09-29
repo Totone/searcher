@@ -1,0 +1,1 @@
+export const openTab = (url: string): Window|null => window.open(url, "_blank");

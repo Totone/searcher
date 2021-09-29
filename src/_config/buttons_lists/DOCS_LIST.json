@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Nodejs",
+    "url": "https://nodejs.org/dist/latest-v14.x/docs/api/"
+  },{
+    "name": "w3c",
+    "url": "https://www.w3schools.com/jsref"
+  },{
+    "name": "Angular",
+    "url": "https://angular.io/docs"
+  },{
+    "name": "React",
+    "url": "https://fr.reactjs.org/docs/getting-started.html"
+  },{
+    "name": "Ant Design Components",
+    "url": "https://ant.design/components/overview/"
+  },{
+    "name": "MUI",
+    "url": "https://mui.com/getting-started/usage/"
+  }  
+]
